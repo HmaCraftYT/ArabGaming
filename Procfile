@@ -1,1 +1,1 @@
-worker: node ArabGaming.js
+worker: node bot.js
